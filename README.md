@@ -18,7 +18,7 @@ A structured collection of my Java programming, Data Structures and Algorithms (
 | No. | Problem | Difficulty | Topic | Solution |
 |---:|---|---|---|---|
 | 1 | Fizz Buzz | Easy | Loops, Conditions, ArrayList | [View Solution](LeetCode/FizzBuzz.java) |
-| 2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math, Number Reversal | [View Solution](LeetCode/PalindromeNumber.java) |
+| 2 | Palindrome Number | Easy | Math, Number Reversal | [View Solution](LeetCode/PalindromeNumber.java) |
 
 ## 📂 Repository Structure
 
